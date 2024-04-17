@@ -1,0 +1,49 @@
+.name1{
+    font-size: 130px;
+    font-weight: 1000;
+    background-color: rgb(166, 6, 6);
+    color: white;
+}
+
+.name2{
+    font-size: 130px;
+    font-weight: 1000;
+    background-color: white;
+}
+
+.name3{
+    font-size: 130px;
+    font-weight: 1000;
+    background-color: rgb(166, 6, 6);;
+    color: white;
+}
+
+.name4{
+    font-size: 130px;
+    font-weight: 1000;
+    background-color: white;
+}
+
+
+.name1{border-top: solid 10px black;
+}
+.name1{border-left: solid 10px black;
+}
+.name1{border-right: solid 10px black;
+}
+.name2{border-left: solid 10px black;
+}
+.name2{border-right: solid 10px black;
+}
+.name3{border-right: solid 10px black;
+}
+.name2{border-bottom: solid 15px black;
+}
+.name3{border-left: solid 10px black;
+}
+.name4{border-left: solid 10px black;
+}
+.name4{border-right: solid 10px black;
+}
+.name4{border-bottom: solid 10px black;
+}
